@@ -1,0 +1,47 @@
+.main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 80px;
+}
+.main2{
+  margin-top: 10px;
+  width: 389px;
+  margin-bottom: 30px;
+}
+.main2 img{
+  text-align: center;
+  width: 279px;
+    margin-left: 4px;
+    margin-top: 3px;
+    height: 232px;
+}
+.ca{
+  width: 250px
+}
+.btns{
+  margin-left: 31px;
+    margin-top: 30px ;
+    width: 15%;
+    margin-bottom: 50px;
+}
+.btns2{
+  
+    width: 50%;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.box{
+  margin-top: 10px;
+}
+.box input{
+  width: 70%;
+  margin-left: 5px;
+  padding: 10px;
+}
+/* App .jsx */
+.backcolor{
+  background-color: #011510;
+}
